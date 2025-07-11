@@ -55,7 +55,7 @@ HTML_TEMPLATE = """
 <body>
     <header>
         <h1>Pars Ailesi</h1>
-        <img class="logo" src="https://raw.githubusercontent.com/kbgyazilim46/kbgyazilimsite/main/logo.png" alt="Logo" />
+        <img class="logo" src="https://raw.githubusercontent.com/kbgyazilim46/Herdaimpars1/main/logo.png" alt="Logo" />
         <p>Sanala damga vuran bir aile.</p>
     </header>
 
@@ -67,20 +67,6 @@ HTML_TEMPLATE = """
 @app.route("/")
 def anasayfa():
     content = """
-    <section id="hakkinda">
-        <h2>Hakkımızda</h2>
-        <p><strong>Selamün aleyküm.</strong> Ben namıdiğer <strong>Kimsebaşgöz</strong>.</p>
-        <p>İsmim <strong>Ahmet Utku Can</strong>'dır.</p>
-        <p>Aşağıdaki bilgiler iletişim içindir. Her türlü sanal işlem için ulaşabilirsiniz.</p>
-    </section>
-
-    <section id="iletisim">
-        <h2>İletişim</h2>
-        <p><strong>WhatsApp:</strong> <a href="https://wa.me/639092363984" target="_blank">+63 909 236 3984</a></p>
-        <p><strong>E-posta:</strong> <a href="mailto:kimsebasgozedemez@mail.com">kimsebasgozedemez@mail.com</a></p>
-        <a href="https://instagram.com/_kimsebasgoz_" class="btn" target="_blank">Instagram'da Ulaş</a>
-    </section>
-
     <section id="pars-info">
         <h2>Pars Ailesi Hakkında</h2>
         <p><strong>Sanal alemde ismimiz duyulmuş olup bir grup (aile) olarak tag açmış kişileriz.</strong></p>
