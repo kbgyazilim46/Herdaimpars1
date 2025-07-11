@@ -71,11 +71,11 @@ def anasayfa():
         <h2>Pars Ailesi Hakkında</h2>
         <p><strong>Sanal alemde ismimiz duyulmuş olup bir grup (aile) olarak tag açmış kişileriz.</strong></p>
         <p><strong>Pars</strong> tagimizin baş kurucusu <strong>kimsebasgozedemez</strong>'dir.</p>
-        <p><strong>Baş Leader:</strong> Leaxs Santo</p>
+        <p><strong>Baş Leaderi:</strong> Leaxs Santo</p>
         <p><strong>Tagımıza gelmek için aşağıdaki hesaplara ulaşabilirsiniz:</p>
         <ul>
             <li>📸 <strong>Resmi Instagram:</strong> <a href="https://instagram.com/parsfamily.resmihesap" target="_blank">@parsfamily.resmihesap</a></li>
-            <li>👑 <strong>Baş Kurucu:</strong> <a href="https://instagram.com/pars.bas.krc.kimsebasgoz" target="_blank">@pars.bas.krc.kimsebasgoz</a></li>
+            <li>👑 <strong>Baş Kurucu:</strong> <a href="https://instagram.com/_pars.bas.krc.kimsebasgoz_" target="_blank">@_pars.bas.krc.kimsebasgoz_</a></li>
             <li>🛡️ <strong>Baş Leader:</strong> <a href="https://instagram.com/pars.leaxs" target="_blank">@pars.leaxs</a></li>
             <li>⚔️ <strong>1. Leader:</strong> <a href="https://instagram.com/pars.kroyy.nen" target="_blank">@pars.kroyy.nen</a></li>
         </ul>
