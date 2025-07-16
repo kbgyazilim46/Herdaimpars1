@@ -7,7 +7,7 @@ HTML_TEMPLATE = """
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <title>Pars Family</title>
+    <title>Hayalet Family</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -54,8 +54,8 @@ HTML_TEMPLATE = """
 </head>
 <body>
     <header>
-        <h1>Pars Ailesi</h1>
-        <img class="logo" src="https://raw.githubusercontent.com/kbgyazilim46/Herdaimpars1/main/logo.png" alt="Logo" />
+        <h1>Hayalet Ailesi</h1>
+        <img class="logo" src="https://raw.githubusercontent.com/kbgyazilim46/Herdaimpars1/main/background.jpg" alt="Logo" />
         <p>Sanala damga vuran bir aile.</p>
     </header>
 
@@ -67,17 +67,17 @@ HTML_TEMPLATE = """
 @app.route("/")
 def anasayfa():
     content = """
-    <section id="pars-info">
-        <h2>Pars Ailesi Hakkında</h2>
+    <section id="hayalet-info">
+        <h2>Hayalet Ailesi Hakkında</h2>
         <p><strong>Sanal alemde ismimiz duyulmuş olup bir grup (aile) olarak tag açmış kişileriz.</strong></p>
-        <p><strong>Pars</strong> tagimizin baş kurucusu <strong>kimsebasgozedemez</strong>'dir.</p>
+        <p><strong>Hayalet</strong> tagimizin baş kurucusu <strong>kimsebasgozedemez</strong>'dir.</p>
         <p><strong>Baş Leaderi:</strong> Leaxs Santo</p>
         <p><strong>Tagımıza gelmek için aşağıdaki hesaplara ulaşabilirsiniz:</p>
         <ul>
-            <li>📸 <strong>Resmi Instagram:</strong> <a href="https://instagram.com/parsfamily.resmihesap" target="_blank">@parsfamily.resmihesap</a></li>
-            <li>👑 <strong>Baş Kurucu:</strong> <a href="https://instagram.com/_pars.bas.krc.kimsebasgoz_" target="_blank">@_pars.bas.krc.kimsebasgoz_</a></li>
-            <li>🛡️ <strong>Baş Leader:</strong> <a href="https://instagram.com/pars.leaxs" target="_blank">@pars.leaxs</a></li>
-            <li>⚔️ <strong>1. Leader:</strong> <a href="https://instagram.com/pars.kroyy.nen" target="_blank">@pars.kroyy.nen</a></li>
+            <li>📸 <strong>Resmi Instagram:</strong> <a href="https://instagram.com/hayaletfamily.resmihesap" target="_blank">@hayaletfamily.resmihesap</a></li>
+            <li>👑 <strong>Baş Kurucu:</strong> <a href="https://instagram.com/_hayalet.bas.krc.kimsebasgoz_" target="_blank">@_hayalet.bas.krc.kimsebasgoz_</a></li>
+            <li>🛡️ <strong>Baş Leader:</strong> <a href="https://instagram.com/hayalet.leaxs" target="_blank">@hayalet.leaxs</a></li>
+            <li>⚔️ <strong>1. Leader:</strong> <a href="https://instagram.com/hayalet.versace" target="_blank">@hayalet.versace</a></li>
         </ul>
     </section>
     """
